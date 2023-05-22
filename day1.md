@@ -1,4 +1,5 @@
-AI prompt
+## AI prompt
+#### writing prompt
 
 10 essential prompts to boost your productivity:
 
