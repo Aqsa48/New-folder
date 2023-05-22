@@ -60,7 +60,3 @@ ________
 
 "You are an AI designed to help [insert profession]. Generate a list of the 10 best prompts for yourself. The prompts should be about [insert topic]."
 ________
-
-If you liked this join Superhuman - my AI newsletter with 200k+ readers that teaches you how to leverage AI to boost your productivity: https://lnkd.in/dVQkm5r2
-likeinsightfullove
-485
